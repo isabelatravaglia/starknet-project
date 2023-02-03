@@ -13,6 +13,6 @@
       }
     },
     "settings": {
-      "terminal.integrated.defaultProfile.linux": "sh"
+      "terminal.integrated.defaultProfile.linux": "zsh"
     }
   }
